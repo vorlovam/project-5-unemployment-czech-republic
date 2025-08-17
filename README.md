@@ -1,15 +1,20 @@
-# Project 5 – Unemployment in Czech Republic
+"""
+project_5: Power BI – Unemployment in Czech Republic
+----------------------------------------------------
 
-This project contains a Power BI visualization of labour market trends and regional unemployment in the Czech Republic.
+author: Markéta Vorlová
+email: vorlovamarketa@seznam.cz
 
-## Contents
-- **Trends over time** – development of employment, unemployment and inactivity rates since 1990.  
-- **Regions – trends** – regional development of unemployment in selected years.  
-- **Regional comparison** – comparison of unemployment across regions in the Czech Republic.  
+description:
+Power BI visualization of labour market trends and regional unemployment in the Czech Republic.
+This project was created as part of Project 5 assignment (Engato Data Academy).
 
-## Tools
-- Power BI Desktop
-- Data source: [Czech Statistical Office / Labour market datasets]
+contents:
+- Trends over time: employment, unemployment and inactivity rates
+- Regions – trends: regional development
+- Regional comparison: comparison of unemployment rates
 
-## Author
-Created as part of Project 5 assignment.
+tools:
+- Microsoft Power BI Desktop
+- Data source: Czech Statistical Office / Labour Market Statistics
+"""
