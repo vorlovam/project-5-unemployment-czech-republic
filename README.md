@@ -1,7 +1,7 @@
 # Power BI — Unemployment in the Czech Republic
 
 Interactive Power BI dashboards visualizing labour-market trends and regional unemployment in the Czech Republic.  
-Prepared as the submission for Project 3.
+Prepared as the submission for Project 5.
 
 ---
 
